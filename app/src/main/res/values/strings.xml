@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">静默安装测试</string>
+    <string name="accessibility_service_description">智能安装服务</string>
+</resources>
